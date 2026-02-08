@@ -16,7 +16,9 @@ A lightweight, elegant shimmer effect for SwiftUI skeleton screens and loading s
 
 ## Preview
 
-![ShimmerKit Demo](.github/assets/shimmerKit.gif)
+<p align="center">
+  <img src=".github/assets/shimmerKit.gif" width="200" alt="ShimmerKit Demo">
+</p>
 
 ## Installation
 
